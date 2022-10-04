@@ -1,0 +1,36 @@
+body,html{
+	height: 100%;
+	width: 100%;
+	font-family: 'Aldrich';
+	font-size: 22px;
+	background: url(headerimage.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+p{
+	color: white;
+	font-size: 30px;
+}
+
+hr{
+	border-color: #2192FF;
+	border-width: 5px;
+	max-width: 70px;
+}
+
+.btn-primary{
+	text-transform: uppercase;
+	border-radius: 100px;
+	padding: 10px;
+}
+
+
+.btn-primary:hover{
+	background-color: #2192FF;
+	border-width: 5px;
+	border-color: #2192FF;
+}
+
+.buffer{
+	height: 5rem;
+}
